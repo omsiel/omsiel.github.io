@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: C/C++
-permalink: /C++/
-category: "C"
+title: note
+permalink: /note/
+category: "note"
 tagline: "很难，但是如果不难，那就没有意思了"
 ---
