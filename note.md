@@ -3,5 +3,5 @@ layout: archive
 title: note
 permalink: /note/
 category: "note"
-tagline: "很难，但是如果不难，那就没有意思了"
+tagline: "吹灭读书灯，一身都是月。"
 ---
